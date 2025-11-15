@@ -150,8 +150,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@Data-Analytics-repo](https://github.com/Data-Analytics-repo/Customer-churn.git)
+- LinkedIn: [Azimil kabir Shaikh](www.linkedin.com/in/azimil-shaikh-854b0328b)
 
 ## 🙏 Acknowledgments
 
