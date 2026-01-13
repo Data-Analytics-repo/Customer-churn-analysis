@@ -1,13 +1,13 @@
 # Customer Churn Prediction
 
-A machine learning project to predict customer churn for a telecommunications company using Python, scikit-learn, and data visualization tools.
+A data analytics project to predict customer churn for a telecommunications company using Python, scikit-learn, and data visualization tools.
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-success.svg)
 
 ## 📊 Project Overview
 
-**Goal:** Build a predictive model to identify customers likely to churn and surface key drivers for retention strategies.
+**Goal:** Build a predictive notebook to identify customers likely to churn and surface key drivers for retention strategies.
 
 **Dataset:** Telco Customer Churn dataset with 7,043 customer records and 21 features including demographics, account information, and service subscriptions.
 
